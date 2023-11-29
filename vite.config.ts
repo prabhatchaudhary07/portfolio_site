@@ -22,4 +22,5 @@ export default defineConfig({
       ],
     },
   },
+  base: 'https://prabhatchaudhary07.github.io/portfolio_site/',
 });
